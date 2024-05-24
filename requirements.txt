@@ -5,4 +5,7 @@ google-generativeai
 pillow
 streamlit
 python-dotenv
-google.generativeai
+crewai
+duckduckgo-search
+huggingface_hub
+langchain_google_genai
